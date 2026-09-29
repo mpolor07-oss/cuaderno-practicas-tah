@@ -103,12 +103,12 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
+- **Nombre y apellidos:** [Marta Polo Rincón]
+- **Fecha real de realización:** [29/09/2026]
+- **Grupo:** [2⁰ de laboratorio]
+- **Pareja de trabajo, si procede:** [Susana,María del Mar,Leire, Sofía,Marta]
+- **Rol o tarea principal:** [Técnico de laboratorio]
+- **Modalidad realmente realizada:** [Real autorizada]
 - **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -118,16 +118,16 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 | Comprobación | Registro |
 |---|---|
 | Autorización o modalidad asignada | [Completa] |
-| PNT, fuente o material docente consultado | [Completa; indica versión si consta] |
-| Equipo/material realmente utilizado | [Completa o «No aplica»] |
-| Medidas de seguridad aplicadas | [Completa o «No aplica»] |
-| Condición de los datos (real/simulada/documental) | [Completa] |
+| PNT, fuente o material docente consultado | [UT Southwestern Medical Center, Osmosis Demonstration Lab (PDF)](https://www.utsouthwestern.edu/media/other-activities/251270osmodemo.pdf]
+| Equipo/material realmente utilizado | [Papel de filtro, patata, agua destilada, cuchillo, probeta, pipeta Pasteur,dos vasos de precipitados, nacl2, dos botes, cucharilla, removedor, báscula, vidrio de reloj, papel absorbente, regla.] |
+| Medidas de seguridad aplicadas | [Completa] |
+| Condición de los datos (real/simulada/documental) | [Real] |
 
 ### 8.2 Hipótesis u observación inicial
 
 Indica qué esperas observar o resolver. Si trabajas con datos simulados o documentos, formula la expectativa con la información proporcionada.
 
-[Escribe aquí tu hipótesis u observación inicial.]
+En agua destilada, el agua entra en la célula de la patata por lo que aumenta su masa y se vuelve más firme. Y en el agua con sal, el agua sale de las células, haciendo que la patata pierda masa y se vuelva más blanda.
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
