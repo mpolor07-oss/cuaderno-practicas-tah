@@ -103,9 +103,9 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
+- **Nombre y apellidos:** [Marta Polo Rincón ]
+- **Fecha real de realización:** [29/09/2026]
+- **Grupo:** [2⁰ de laboratorio.]
 - **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
 - **Rol o tarea principal:** [Describe tu participación]
 - **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
