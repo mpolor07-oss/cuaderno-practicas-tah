@@ -218,7 +218,7 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| En el medio hipotónico la patata ha disminuido su peso | Ha ocurrido una lisis celular debido al tiempo de exposición y la membrana ha dejado de funcionar| Disminuir el tiempo de exposición| Sí |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
