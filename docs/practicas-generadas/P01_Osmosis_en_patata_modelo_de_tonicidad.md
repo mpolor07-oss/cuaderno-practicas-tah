@@ -150,7 +150,7 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 ### 9.3 Resultado principal
 Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental.
 
-[Escribe aquí el resultado principal.]
+[Observé que la patata perdió masa tanto en el agua como en la disolución salina. En el agua, la pérdida de masa pudo deberse al daño o rotura de algunas células, mientras que en la disolución salina el agua salió de las células por ósmosis. Con esta práctica comprobé que la concentración del medio influye en el movimiento del agua a través de las células de la patata. El resultado procede de mis observaciones y de los datos obtenidos durante la práctica.]
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
