@@ -135,20 +135,19 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
-| Identificación y procedencia | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Material, imagen o datos legibles | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Gestión de residuos generados | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Identificación y procedencia | Identifique las muestras de patatas y las soluciones que utilice. Comprobé que cada muestra estaba bien identificada.| Sí | Comprobé que cada muestra estuviera correctamente identificada.|
+| Material, imagen o datos legibles | Registré las masas iniciales y finales y anoté mis observaciones.| [Sí | Pude leer y comparar correctamente los datos.|
+| Gestión de residuos generados | Recogí los restos de patatas y las soluciones al terminar la práctica.| Sí | Y recogí los residuos adecuadamente y dejé limpio los materiales. |
 
 ### 9.2 Registro de observaciones o cálculos
 
 | Observación, variable o cálculo | Dato/evidencia | Comentario |
 |---|---|---|
-| [Registro 1] | [Completa] | [Completa] |
-| [Registro 2] | [Completa] | [Completa] |
-| [Registro 3] | [Completa] | [Completa] |
+| [Registro 1] | Cambio de masa de agua. | Observe que la patata disminuyó de tamaño. Las células se pueden haber muerto y se produce una lisis celular debido al tiempo de exposición entonces la membrana deja de funcionar|
+| [Registro 2] | Cambio de masa en disolución salina| Observé que la patata perdió masa. Comprobé que el agua salió de las células hacia la disolución más concentrada.|
+| [Registro 3] | Relación entre concentración y masa.|Observé que el aumentar la concentración de sal disminuyó más masa de la patata. Comprobé que la concentración de la disolución influye en el movimiento del agua por ósmosis. |
 
 ### 9.3 Resultado principal
-
 Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental.
 
 [Escribe aquí el resultado principal.]
