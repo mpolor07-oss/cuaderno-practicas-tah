@@ -127,7 +127,7 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 | Procedimiento de centrifugación aplicado | OMS, *Use of anticoagulants in diagnostic laboratory investigations*, WHO/DIL/LAB/99.1 Rev. 2 (2002) |
 | Evaluación de riesgos y bioseguridad | |
 | Compatibilidad tubo–rotor–centrífuga | [Nahita /E001026048663,2645, rotor y adaptador] |
-| RCF, tiempo, temperatura y freno aplicados | [Transcribe del PNT o del protocolo OMS si no existe; indica fuente] |
+| RCF, tiempo, temperatura y freno aplicados | 2000-3000 xg, 15 min, 15-24; fuente protocolo de la práctica |
 | Protección, contención y gestión de residuos | [Completa o indica alternativa] |
 | Condición de los datos (real) | [Completa] |
 
