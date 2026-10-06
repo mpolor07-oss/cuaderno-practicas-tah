@@ -109,27 +109,27 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
+- **Nombre y apellidos:** Marta Polo Rincón 
+- **Fecha real de realización:** 06/10/2026
+- **Grupo:** 2⁰ de LABORATORIO 
+- **Pareja de trabajo, si procede:** Leire Lobo Conde y Marta Polo
+- **Rol o tarea principal:** Técnico de laboratorio clínico y biomédico.
+- **Modalidad realmente realizada:** Real autorizada
 - **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
 
-## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
+## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE ·DURANTE]
 
 ### 8.1 Verificación previa
 
 | Comprobación | Registro |
 |---|---|
-| Autorización de muestra real y código anónimo | [Completa sin datos del donante] |
-| Procedimiento de centrifugación aplicado | [PNT local: código/versión/fecha; o protocolo OMS si no existe PNT] |
-| Evaluación de riesgos y bioseguridad | [Medidas definidas con manual OMS y requisitos del centro; o modalidad alternativa] |
-| Compatibilidad tubo–rotor–centrífuga | [Marca/referencia del tubo, modelo, rotor y adaptador] |
+| Autorización de muestra real y código anónimo | E001026048663 |
+| Procedimiento de centrifugación aplicado | OMS, *Use of anticoagulants in diagnostic laboratory investigations*, WHO/DIL/LAB/99.1 Rev. 2 (2002) |
+| Evaluación de riesgos y bioseguridad | |
+| Compatibilidad tubo–rotor–centrífuga | [Nahita /E001026048663,2645, rotor y adaptador] |
 | RCF, tiempo, temperatura y freno aplicados | [Transcribe del PNT o del protocolo OMS si no existe; indica fuente] |
 | Protección, contención y gestión de residuos | [Completa o indica alternativa] |
-| Condición de los datos (real/simulada/documental) | [Completa] |
+| Condición de los datos (real) | [Completa] |
 
 ### 8.2 Hipótesis u observación inicial
 
