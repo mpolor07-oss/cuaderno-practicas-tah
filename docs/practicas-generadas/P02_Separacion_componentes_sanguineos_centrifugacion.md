@@ -128,7 +128,7 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 | Evaluación de riesgos y bioseguridad | |
 | Compatibilidad tubo–rotor–centrífuga | [Nahita /E001026048663,2645, rotor y adaptador] |
 | RCF, tiempo, temperatura y freno aplicados | 2000-3000 xg, 15 min, 15-24; fuente protocolo de la práctica |
-| Protección, contención y gestión de residuos | [Completa o indica alternativa] |
+| Protección, contención y gestión de residuos | Mantenga el tubo cerrado excepto cuando se vaya a trabajar con él, utilicé todos los EPIS necesarios como es la bata y guantes, por último guarde los tubos en el frigorífico y elimine los residuos de forma correcta siguiendo las instrucciones. |
 | Condición de los datos (real) | [Completa] |
 
 ### 8.2 Hipótesis u observación inicial
