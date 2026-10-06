@@ -135,7 +135,7 @@ La ficha no dispone del modelo de centrífuga, rotor ni referencia comercial exa
 
 Indica qué esperas observar o resolver. Si trabajas con datos simulados o documentos, formula la expectativa con la información proporcionada.
 
-[Escribe aquí tu hipótesis u observación inicial.]
+Observaremos las separación de los componentes de la sangre. Este se encontrará en tres fases: sedimento, eritrocitos; fase intermedia, leucocitos; sobrenadante, plaquetas.
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -143,10 +143,10 @@ Indica qué esperas observar o resolver. Si trabajas con datos simulados o docum
 
 | Control o criterio | Evidencia observada o realizada | ¿Adecuado? | Justificación |
 |---|---|---|---|
-| Autorización, código anónimo y procedencia docente | [Completa] | [Sí / No / Parcial] | [Completa sin datos identificativos] |
-| Integridad del tubo y compatibilidad con rotor/adaptador | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Parámetros transcritos del PNT o protocolo OMS y equilibrado | [Completa] | [Sí / No / Parcial] | [Completa] |
-| Transferencia, residuos y descontaminación según procedimiento y evaluación | [Completa] | [Sí / No / Parcial] | [Completa] |
+| Autorización, código anónimo y procedencia docente | Autorización total| Sí | Se mantuvo la confidencialidad y la muestra procedía del banco de sangre. |
+| Integridad del tubo y compatibilidad con rotor/adaptador | Tubo en buen estado y bien colocado en el rotor| Sí | No se observaron daños y el tubo era compatible con el equipo.|
+| Parámetros transcritos del PNT o protocolo OMS y equilibrado | Parámetros de centrifugación anotados y tubos equilibrado antes de centrifugar| Sí | Se siguió el procedimiento establecido y se realizó un equilibrio adecuado.|
+| Transferencia, residuos y descontaminación según procedimiento y evaluación | Manipulación de la muestra y eliminación de residuos según el procedimiento.| Sí | Se siguieron las normas de seguridad y descontaminación establecidas.|
 
 ### 9.2 Registro de observaciones o cálculos
 
