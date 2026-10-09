@@ -127,7 +127,7 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 Indica qué esperas observar o resolver. Si trabajas con datos simulados o documentos, formula la expectativa con la información proporcionada.
 
-[Escribe aquí tu hipótesis u observación inicial.]
+Se espera observar que los trozos de patata experimenten cambios de masa, tamaño y textura al introducirlos en disoluciones con diferentes concentraciones de sal, debido al proceso de ósmosis. En una disolución hipotónica, el agua entrará en las células de la patata, aumentando su turgencia y posiblemente su masa. En una disolución hipertónica, el agua saldrá de las células, provocando una disminución de masa y firmeza. En una disolución isotónica, se espera que no haya un cambio neto significativo de agua y que la masa de la patata se mantenga aproximadamente constante.
 
 ## 9. Observaciones, controles y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
