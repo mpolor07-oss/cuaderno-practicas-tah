@@ -103,12 +103,12 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
+- **Nombre y apellidos:** Marta Polo Rincón
+- **Fecha real de realización:** 29/09/2026
+- **Grupo:** 2⁰ de Laboratorio 
+- **Pareja de trabajo, si procede:** Grupo 4
+- **Rol o tarea principal:** Técnico de laboratorio 
+- **Modalidad realmente realizada:** Real autorizada
 - **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -237,33 +237,33 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** ¿Qué parte del procedimiento te ha resultado más compleja y cómo lo solucionaste o afrontaste?
 
-   [Respuesta del alumnado]
+   La parte más compleja fue medir la masa de la patata con precisión y controlar el tiempo de exposición en las soluciones. Para afrontarlo, intenté realizar las mediciones cuidadosamente y comparar el peso inicial con el peso final después de 24 horas.
 
 **2. Interpretación:** ¿Qué ha ocurrido en la patata tras 24 horas en las diferentes soluciones? ¿Por qué?
 
-   [Respuesta del alumnado]
+   Tras 24 horas, la patata debería aumentar su masa en la solución hipotónica, porque el agua entra en sus células, y disminuir su masa en la solución hipertónica, porque el agua sale de ellas. Sin embargo, en nuestra práctica la patata disminuyó su peso en el medio hipotónico, por lo que el resultado no fue el esperado y pudo deberse a errores experimentales o a las condiciones de la práctica.
 
 **3. Conclusiones:** Relaciona los fenómenos osmóticos con el resultado de tu práctica.
 
-   [Respuesta del alumnado]
+   La práctica permite comprender que la ósmosis es el movimiento del agua a través de una membrana semipermeable desde el medio con menor concentración de solutos hacia el de mayor concentración. Este fenómeno explica los cambios de masa de la patata en las distintas soluciones. Aunque el resultado obtenido en el medio hipotónico no fue el esperado, la experiencia demuestra la importancia de controlar las condiciones experimentales y repetir las mediciones para obtener resultados fiables.
 
 **4. Aprendizaje y transferencia:** ¿Qué técnica hematológica se basa en el mismo principio? Justifica o explica tu respuesta.
 
-   [Respuesta del alumnado]
+   Una técnica hematológica basada en el mismo principio es la prueba de fragilidad osmótica de los eritrocitos. Consiste en introducir glóbulos rojos en soluciones con distintas concentraciones de sales para observar cómo reaccionan. En un medio hipotónico, entra agua en los eritrocitos, que pueden hincharse y romperse (hemólisis), mientras que en un medio hipertónico pierden agua y se encogen. Esto demuestra que la ósmosis también es importante en el estudio de las células sanguíneas.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P01` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 29/09/2026 |
 | UD / RA / CE | `UD3 / RA03 / CE03.c` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen de evidencia | [Completa] |
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.3] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Agrupamiento | Grupo 4 |
+| Modalidad y origen de evidencia |Práctica presencial de ósmosis en patata, con observación y mediación de la masa antes y después de 24h. |
+| Materiales, equipo o fuente usados | probeta, dos vasos de precipitado pipeta Pasteur, cucharilla, NaCl, papel de filtro, patata, agua destilada, cuchillo, dos botes, báscula, vidrio de reloj, papel absorbente y regla. |
+| Controles | Medición inicial y final de la masa y comparación de las muestras en los distintos medios.|
+| Resultado | Ninguna de las dos muestras ganó masa.|
+| Interpretación | Los resultados no fueron los esperados. La ósmosis pudo influir, pero no se puede confirmar la causa exacta del cambio de masa. |
+| Incidencias y acciones | Se observaron resultados diferentes de los esperados. Sería conveniente revisar las mediciones y las condiciones del experimento.|
+| Ruta de residuos | Hemos utilizado la ruta de residuos asimilable a urbanos.|
+| Estado de entrega |  entregado |
