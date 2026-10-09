@@ -223,13 +223,13 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 Interpreta el cambio de masa observado en patata mediante la ósmosis y la tonicidad de los medios hipotónico e hipertónico. Explica qué patrón respaldan los datos, usa los controles y evidencias, y reconoce que el tejido vegetal es solo un modelo conceptual. Separa observación, cálculo, hipótesis e información no disponible; no excedas el alcance didáctico ni formules un diagnóstico individual.
 
-[Escribe aquí tu interpretación técnica.]
+En el medio hipotónico, la patata debería aumentar su masa porque el agua entra en sus células por ósmosis. Sin embargo, en nuestro experimento disminuyó su peso, lo que indica que el resultado no fue el esperado. Esto pudo deberse a un error experimental, a un tiempo de exposición excesivo, a una medición incorrecta o a que el medio no fuera realmente hipotónico. En un medio hipertónico, el agua sale de las células de la patata y su masa disminuye. Por tanto, los cambios de masa permiten estudiar el movimiento del agua a través de las membranas celulares. No obstante, sería necesario repetir el experimento y comprobar las condiciones para confirmar los resultados.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si alcanzaste el objetivo, qué evidencia sostiene la conclusión y qué limitaciones tuvo la modalidad realmente realizada.
 
-[Escribe aquí tu conclusión.]
+Se ha estudiado la ósmosis utilizando trozos de patata en diferentes medios. En condiciones normales, la patata gana masa en un medio hipotónico y pierde masa en uno hipertónico debido al movimiento del agua. Sin embargo, en nuestro experimento la patata disminuyó su peso en el medio hipotónico, por lo que no se cumplió el resultado esperado. Esto pudo deberse a errores de medición o a las condiciones experimentales. Como limitaciones, se deben tener en cuenta el tiempo de exposición, la concentración de las disoluciones y la precisión de las medidas. Sería conveniente repetir la práctica para obtener resultados más fiables.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
