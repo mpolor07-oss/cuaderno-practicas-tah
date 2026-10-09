@@ -117,11 +117,11 @@ Cuando no se enlaza un PNT operativo local, estos documentos públicos aportan c
 
 | Comprobación | Registro |
 |---|---|
-| Autorización o modalidad asignada | [Completa] |
-| PNT, fuente o material docente consultado | [Completa; indica versión si consta] |
-| Equipo/material realmente utilizado | [Completa o «No aplica»] |
-| Medidas de seguridad aplicadas | [Completa o «No aplica»] |
-| Condición de los datos (real/simulada/documental) | [Completa] |
+| Autorización o modalidad asignada | Práctica de laboratorio realizada siguiendo las instrucciones del docente. |
+| PNT, fuente o material docente consultado |Guion docente de la práctica «Ósmosis en patata: modelo de tonicidad». |
+| Equipo/material realmente utilizado | probeta, dos vasos de precipitado pipeta Pasteur, cucharilla, NaCl, papel de filtro, patata, agua destilada, cuchillo, dos botes, báscula, vidrio de reloj, papel absorbente y regla. |
+| Medidas de seguridad aplicadas | Manipulación cuidadosa de los instrumentos cortantes, mantenimiento de la zona de trabajo limpia y lavado de manos al finalizar. |
+| Condición de los datos real | [Completa] |
 
 ### 8.2 Hipótesis u observación inicial
 
