@@ -100,12 +100,12 @@ El frotis sanguíneo debe proceder de la [preparación P03](P03_Preparacion_exte
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
+- **Nombre y apellidos:** Marta Polo Rincón.
+- **Fecha real de realización:** 20/10/2026.
+- **Grupo:** 2⁰ de Laboratorio.
+- **Pareja de trabajo, si procede:** Trabajo invidual.
+- **Rol o tarea principal:** Técnico de laboratorio clínico y biomédico.
+- **Modalidad realmente realizada:** Real autorizada
 - **Código o descripción del material/dataset:** [Completa sin incluir datos personales o clínicos]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -116,9 +116,9 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Portaobjetos con frotis P03, puente/gradilla de tinción, tres recipientes compatibles de boca ancha, papel absorbente, frasco lavador, pipeta Pasteur solo si el protocolo la requiere] |
-| Equipos | [Microscopio óptico; objetivo utilizado y aceite de inmersión si procede] |
-| Reactivos/materiales | [Kit panóptico rápido nº 1, nº 2 y nº 3; tampón/líquido de aclarado autorizado; EPI según FDS/PNT] |
+| Instrumental | Portaobjetos con frotis P03, puente/gradilla de tinción, tres recipientes compatibles de boca ancha, papel absorbente, frasco lavador. |
+| Equipos | Microscopio óptico; 40x.|
+| Reactivos/materiales | Kit panóptico rápido 1⁰fijador, 2⁰ eosina, 3⁰ azul de metileno; agua destilada; batas y guantes. |
 
 | Residuo previsto | Tipo |
 |---|---|
