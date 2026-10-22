@@ -122,8 +122,8 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Material desechable con sangre] | [Biológicos o infecciosos] |
-| [Portaobjetos roto contaminado, si lo hubiera] | [Punzocortantes] |
+| Material desechable con sangre| Biológicos o infecciosos |
+| [Portaobjetos roto contaminado, si lo hubiera] | No aplica |
 | [Residuos no contaminados que el centro permita] | [Urbanos o asimilables a los urbanos] |
 
 Las soluciones de tinción y el papel con restos de reactivo pueden ser residuos químicos peligrosos: no se incluyen en los tres tipos de la tabla y se gestionan por la ruta específica que determinen las FDS y el centro. Escribe «No aplica» en las filas que no correspondan.
