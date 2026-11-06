@@ -162,7 +162,11 @@ Observaremos las separación de los componentes de la sangre. Este se encontrar�
 
 Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental. Incluye un esquema rotulado de las fases observadas e indica si la capa leucoplaquetaria se distinguió claramente.
 
-[Escribe aquí el resultado principal.]
+Tras la centrifugación de la muestra de sangre con EDTA se observó la separación en tres fases diferenciadas según su densidad:
+Parte superior: plasma, que presentó una coloración rojiza compatible con hemólisis, en lugar del color amarillento habitual.
+Zona intermedia: capa leucoplaquetaria (buffy coat), formada por leucocitos y plaquetas. Se observó como una capa muy fina entre el plasma y los eritrocitos.
+Parte inferior: eritrocitos, que quedaron sedimentados en el fondo del tubo por ser los elementos más densos.
+La capa leucoplaquetaria no se distinguió con mucha claridad debido a su pequeño grosor, aunque se localizaba entre el plasma y los eritrocitos.
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -229,19 +233,27 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| Se observó hemólisis en la muestra tras la centrifugación, apreciándose una coloración rojiza en el plasma. | Posible extracción traumática, manipulación brusca de la muestra, agitación excesiva o condiciones inadecuadas durante el procesamiento | Se registró la incidencia y se evitó una manipulación adicional. Se propone repetir el procedimiento con una nueva muestra y extremar las precauciones durante la extracción y el trasvase | Sí. La hemólisis altera la calidad de la muestra y puede modificar determinados parámetros analíticos. |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Explica qué capas observaste en la muestra real con EDTA y cómo la centrifugación las separó. Relaciona la transferencia con la preservación de la interfaz celular, y distingue plasma de componentes transfusionales preparados mediante procesos validados. Separa observación e inferencia; no atribuyas esterilidad, ausencia de plaquetas ni utilidad clínica a la muestra.
 
-[Escribe aquí tu interpretación técnica.]
+Tras la centrifugación de la muestra de sangre con EDTA se pudieron diferenciar tres capas: en la parte superior, el plasma; en la zona intermedia, una fina capa leucoplaquetaria (interfaz celular); y en el fondo, los eritrocitos sedimentados.
+
+Sin embargo, se observó hemólisis, identificada por la coloración rojiza del plasma, debida a la liberación de hemoglobina al medio tras la rotura de los glóbulos rojos. Esta alteración puede estar relacionada con una extracción o manipulación inadecuada de la muestra.
+
+Durante el trasvase es importante evitar la interfaz celular para reducir la contaminación con células. La hemólisis observada puede afectar a la calidad y fiabilidad de los resultados analíticos. El plasma obtenido en esta práctica no debe confundirse con un componente transfusional, ya que no se han aplicado los procesos de validación, control de calidad y esterilidad necesarios.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Indica si identificaste las fases y realizaste el trasvase previsto; respáldalo con registros y evidencias. Señala las desviaciones del PNT o del protocolo OMS aplicado, la calidad de la separación y por qué el resultado de aula no certifica un componente transfusional.
 
-[Escribe aquí tu conclusión.]
+Se consiguió realizar la centrifugación y observar la separación de los componentes sanguíneos en distintas capas, identificando el plasma, la capa leucoplaquetaria y los eritrocitos. No obstante, se detectó hemólisis en la muestra, lo que indica que la calidad de la separación se vio comprometida.
+
+La hemólisis pudo deberse a una manipulación brusca, una extracción traumática o unas condiciones inadecuadas durante el procesamiento. Por ello, se considera necesario mejorar la técnica de extracción, manipulación y trasvase para evitar la rotura de los eritrocitos.
+
+En conclusión, aunque se alcanzó el objetivo de observar la separación de los componentes sanguíneos mediante centrifugación, la presencia de hemólisis constituye una incidencia que debe tenerse en cuenta. Además, el resultado obtenido en el laboratorio de prácticas no certifica la obtención de un componente sanguíneo apto para transfusión, ya que serían necesarios procedimientos validados y controles específicos.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -249,33 +261,34 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** ¿Qué paso del manejo de la muestra o de la centrifugación exigió más cuidado y cómo comprobaste que se hizo correctamente? ¿Qué medidas de bioseguridad específicas aplicaste durante el destaponado de los tubos y el trasvase de líquidos?
 
-   [Respuesta del alumnado]
+   El paso que exigió más cuidado fue el trasvase del plasma a otro tubo, ya que era importante no arrastrar la capa leucoplaquetaria ni mezclarla con los eritrocitos. Para comprobar que se había realizado correctamente, observé la separación de las fases después de la centrifugación y procuré realizar el trasvase con cuidado. Durante el destaponado y el trasvase utilicé guantes, bata y protección adecuada, evitando salpicaduras, movimientos bruscos y el contacto directo con la muestra. También mantuve los tubos en una posición estable y deposité el material utilizado en los contenedores correspondientes.
 
 **2. Interpretación:** ¿Qué fases has distinguido tras la centrifugación y qué representa cada una? Observa detenidamente el color y la claridad del sobrenadante obtenido. ¿Presenta alguna alteración (como tonos rojizos por hemólisis, amarillentos intensos por ictericia o aspecto lechoso por lipemia) en comparación con las fotografías de referencia de un plasma normal?
 
-   [Respuesta del alumnado]
-
+   Tras la centrifugación distinguí tres fases: en la parte superior el plasma, de color amarillento en condiciones normales; en la zona intermedia la capa leucoplaquetaria o buffy coat, formada por leucocitos y plaquetas; y en la parte inferior los eritrocitos, que sedimentan por ser más densos. En nuestra muestra se observó una coloración rojiza en el sobrenadante, compatible con hemólisis. Esto indica que se produjo una liberación de hemoglobina de los glóbulos rojos al plasma. Por tanto, el aspecto de la muestra no correspondía al de un plasma normal y la hemólisis pudo afectar a la calidad de los resultados analíticos.
+   
 **3. Conclusiones:** Localiza en tus observaciones la capa leucoplaquetaria (buffy coat). ¿Por qué su grosor es tan fino en proporción al resto, y qué indicaría desde un punto de vista clínico si en una muestra esa capa fuera inusualmente gruesa? ¿Qué habría ocurrido con las fases observadas si la muestra de sangre se hubiera recogido en un tubo sin anticoagulante (tubo de suero)? Justifica tu respuesta explicando la diferencia fundamental entre plasma y suero.
 
-   [Respuesta del alumnado]
+   La capa leucoplaquetaria se localiza entre el plasma y los eritrocitos. Su grosor es muy fino porque los leucocitos y las plaquetas representan una proporción pequeña del volumen total de la sangre. Si esta capa fuera inusualmente gruesa, podría indicar un aumento importante de leucocitos, como ocurre en determinadas alteraciones hematológicas, aunque sería necesario realizar otras pruebas para confirmarlo.
+Si hubiéramos utilizado un tubo sin anticoagulante, la sangre habría coagulado y, después de la centrifugación, habríamos obtenido suero en lugar de plasma. La diferencia fundamental es que el plasma conserva los factores de coagulación, incluido el fibrinógeno, mientras que el suero es el líquido que queda después de formarse el coágulo y carece de fibrinógeno consumido durante la coagulación.
 
 **4. Aprendizaje y transferencia:** ¿Qué técnica hematológica o preanalítica requiere separar plasma de células? Explica y justifica tu respuesta.
 
-   [Respuesta del alumnado]
+   Una técnica que requiere separar el plasma de las células es la obtención de plasma para realizar pruebas de coagulación, como el tiempo de protrombina o el TTPa. Para ello se utiliza sangre recogida en un tubo con citrato sódico, que evita la coagulación. Posteriormente se centrifuga para separar las células sanguíneas del plasma. Es importante realizar correctamente esta separación porque una contaminación celular o una alteración de la muestra puede modificar los resultados de las pruebas.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P02` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 6/10/2026 |
 | UD / RA / CE | `UD7 / RA07 / CE07.c` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen de evidencia | [Completa] |
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
-| Controles | [Resume o enlaza al apartado 9.1] |
-| Resultado | [Resume o enlaza al apartado 9.3] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Agrupamiento | Leire y Marta |
+| Modalidad y origen de evidencia | Práctica presencial de laboratorio con observación directa de la muestra tras la centrifugación y registro de los resultados. |
+| Materiales, equipo o fuente usados | Muestra de sangre con EDTA, tubos de extracción, centrífuga, pipeta o material de trasvase y equipo de protección individual. |
+| Controles | Comprobación visual de la identificación de los tubos, correcta colocación en la centrífuga y observación de la separación de las fases. |
+| Resultado | Se consiguió separar la muestra en plasma, capa leucoplaquetaria y eritrocitos. Se observó hemólisis, identificada por la coloración rojiza del sobrenadante.|
+| Interpretación |  Se identificaron las tres fases sanguíneas, aunque la presencia de hemólisis indica una alteración de la calidad de la muestra.|
+| Incidencias y acciones | Se detectó hemólisis. Se registró la incidencia y se propuso evitar manipulaciones bruscas y repetir el procedimiento con una nueva muestra si fuera necesario. |
+| Ruta de residuos | Eliminación de tubos y material contaminado en los contenedores específicos para residuos biosanitarios y material punzante en su contenedor correspondiente. |
+| Estado de entrega | entregado  |
