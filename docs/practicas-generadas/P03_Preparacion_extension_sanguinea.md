@@ -108,13 +108,13 @@ Consulta de las referencias enlazadas: **12/10/2026**. No se ha identificado un 
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada — excedente EDTA / real autorizada — sangre capilar propia / demostración / simulada / documental; describe]
-- **Origen y código docente de la muestra:** [Laboratorio/banco de sangre o propia; código no identificativo, sin datos clínicos]
+- **Nombre y apellidos:** Marta Polo Rincón.
+- **Fecha real de realización:** 15/10/2026
+- **Grupo:** 2⁰ de Laboratorio 
+- **Pareja de trabajo, si procede:** Grupo 4 
+- **Rol o tarea principal:** Técnica de laboratorio.
+- **Modalidad realmente realizada:** Real autorizada — sangre capilar propia.
+- **Origen y código docente de la muestra:** Sangre capilar propia.
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -124,13 +124,13 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Enumera el instrumental que vas a utilizar] |
-| Equipos | [Enumera microscopio u otros equipos realmente autorizados; si no usas ninguno, «No aplica»] |
-| Reactivos/materiales | [Portaobjetos, extensor, material de transferencia autorizado, muestra aprobada, guantes, antiséptico si procede y material de limpieza] |
+| Instrumental | Lanceta de seguridad, capilar heparinizado, portaobjetos y portaobjetos extensor. |
+| Equipos |No aplica»] |
+| Reactivos/materiales |  Sangre capilar propia, guantes, antiséptico, gasas y material de limpieza. |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Enumera un residuo por fila; añade las filas necesarias o escribe «No aplica»] | [Urbanos o asimilables a los urbanos / Punzocortantes / Biológicos o infecciosos] |
+|Capilar y portaobjetos contaminados,Lanceta utilizada | Biológicos o infecciosos, Punzocortantes |
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -140,9 +140,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
-| Características del producto o resultado final | [Número de extensiones y comparación de longitud, grosor, homogeneidad, estrías, agujeros y borde de pluma; origen y límites] |
+| Cálculos (si procede) | No aplica, ya que la práctica consistió en preparar y observar extensiones sanguíneas. |
+| Configuración de equipos (si procede) | No se utilizaron equipos que necesitaran ajustes específicos.|
+| Características del producto o resultado final |Se realizó una extensión sanguínea a partir de sangre capilar propia mediante la técnica en cuña. Se valoraron la longitud, el grosor, la homogeneidad y el borde de pluma. |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -199,19 +199,22 @@ Puedes añadir hasta tres evidencias más si documentan otros pasos relevantes; 
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| Posible irregularidad en el grosor de la extensión sanguínea | Diferencias en la cantidad de sangre, la inclinación o la velocidad del movimiento del extensor. | Mantener un ángulo y una velocidad constantes y controlar la cantidad de sangre utilizada. | Si |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Compara tus extensiones y justifica cuál presenta mejor calidad técnica y qué defectos observas. Relaciona la valoración con el origen de la sangre, la técnica y las evidencias. No formules diagnóstico ni afirmes validez clínica.
 
-[Escribe aquí tu interpretación técnica.]
-
+La extensión sanguínea se realizó utilizando sangre capilar propia y la técnica en cuña. Esta técnica permite distribuir la sangre sobre el portaobjetos formando una película fina y progresivamente más delgada, terminada en un borde denominado borde de pluma.
+La calidad de la extensión depende principalmente de la cantidad de sangre utilizada, la inclinación del portaobjetos extensor y la velocidad y continuidad del movimiento.
+La zona más adecuada para una posterior observación microscópica suele encontrarse cerca del borde, donde las células quedan distribuidas en una sola capa y presentan menor superposición.
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Valora razonadamente si alcanzaste el objetivo, conectando la calidad observada con el procedimiento y la evidencia registrada. Explica las limitaciones de la fuente y de la modalidad realmente realizada.
 
-[Escribe aquí tu conclusión.]
+Se realizó una extensión sanguínea utilizando sangre capilar propia mediante la técnica en cuña. Durante la práctica se aprendió a preparar el portaobjetos, depositar la gota de sangre y utilizar otro portaobjetos como extensor para conseguir una película fina.
+La calidad de la preparación depende de controlar correctamente el ángulo, la cantidad de sangre y la velocidad del movimiento. La práctica permitió comprender la importancia de obtener una extensión homogénea y con un borde de pluma adecuado para facilitar su posterior observación microscópica.
+Como limitación, la preparación realizada es una actividad de aprendizaje y no constituye una prueba diagnóstica. Además, el uso de sangre capilar con heparina debe tenerse en cuenta por sus posibles interferencias en la tinción.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -219,33 +222,33 @@ Responde individualmente y relaciona tus respuestas con las observaciones e imá
 
 **1. Procedimiento:** ¿Qué decisiones sobre la técnica realizada (localización de la gota, volumen de la gota, inclinación del portaobjetos extensor, apoyo y fuerza del portaobjetos extensor, velocidad del movimiento extensor) influyeron más en la calidad del trabajo y cómo lo comprobaste?
 
-   [Respuesta del alumnado]
+   Los pasos que más cuidado requirieron fueron la obtención de la gota de sangre y la realización de la extensión. Fue importante controlar la cantidad de sangre depositada, colocar el portaobjetos extensor con una inclinación aproximada de 30-45 grados y realizar un movimiento continuo y uniforme. Para comprobar el resultado observé la forma y el grosor de la extensión. Durante la práctica utilicé guantes y material estéril de un solo uso para la punción, evitando el contacto directo con la sangre y depositando la lanceta en el contenedor de punzantes.
 
 **2. Interpretación:** ¿Por qué es importante realizar una extensión correcta?
 
-   [Respuesta del alumnado]
+   Es importante realizar correctamente una extensión sanguínea porque permite distribuir las células de manera adecuada para su posterior observación al microscopio. Una extensión demasiado gruesa, irregular o con muchas estrías puede dificultar la identificación y observación de las células. Por eso es necesario conseguir una película fina, homogénea y con un buen borde de pluma.
 
 **3. Conclusiones:** ¿Qué zona es la más importante de toda la extensión y por qué?
 
-   [Respuesta del alumnado]
+   La zona más importante es la zona de monocapa, situada próxima al borde de pluma. En ella las células se encuentran suficientemente separadas y no están excesivamente superpuestas, lo que facilita su observación individual. Por este motivo, es la zona que se utiliza habitualmente para estudiar la morfología de las células sanguíneas.
 
 **4. Aprendizaje y transferencia:** ¿Qué mejorarías?
 
-   [Respuesta del alumnado]
+   Mejoraría el control de la cantidad de sangre depositada y mantendría una inclinación y velocidad más constantes durante el movimiento del extensor. También intentaría conseguir una extensión más homogénea y con un borde de pluma regular. Esto permitiría obtener preparaciones de mejor calidad para su posterior tinción y observación microscópica.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P03` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 15/10/2026 |
 | UD / RA / CE | `UD1 / RA01 / CE01.b, CE01.f` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen de evidencia | [Completa] |
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
-| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
-| Resultado | [Resume o enlaza al apartado 9.1] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Agrupamiento | Invidual. |
+| Modalidad y origen de evidencia | Ejecución real autorizada con sangre capilar propia. Evidencias obtenidas durante la práctica. |
+| Materiales, equipo o fuente usados | Lanceta de seguridad, capilar heparinizado, portaobjetos, extensor y equipo de protección individual.|
+| Controles | Comprobación de la identificación del portaobjetos, cantidad de sangre, inclinación del extensor y calidad visual de la extensión. |
+| Resultado |  Extensión sanguínea realizada mediante técnica en cuña a partir de sangre capilar propia. |
+| Interpretación | Se valoraron las características técnicas de la extensión y la importancia de conseguir una zona de monocapa próxima al borde de pluma.|
+| Incidencias y acciones | Apartado 11 |
+| Ruta de residuos | Lancetas al contenedor de punzantes y material contaminado a los contenedores de residuos biosanitarios correspondientes.|
+| Estado de entrega | Entregado |
