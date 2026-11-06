@@ -161,7 +161,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 - **Archivo previsto:** `../assets/P01/P01_01_preparacion_medios.jpg`
 - **Texto alternativo:** Preparación y rotulado del agua destilada y de la disolución de NaCl al 5 %.
 - **Pie de foto:** Preparación de 100 mL de disolución de NaCl al 5 % (m/v) y rotulado de ambos medios: agua destilada (hipotónico) y NaCl (hipertónico).
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Imagen del alumnado:** 
 
 ![Preparación y rotulado del agua destilada y de la disolución de NaCl al 5 %.](../assets/P01/P01_01_preparacion_medios.jpg)
 
@@ -182,7 +182,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 - **Archivo previsto:** `../assets/P01/P01_03_pesada_inmersion.jpg`
 - **Texto alternativo:** Pesada inicial de los grupos de patata e inmersión separada en cada medio.
-- **Pie de foto:** Registro de la masa inicial de cada grupo y colocación de tres porciones en cada recipiente, cubiertas por el medio correspondiente.
+- **Pie de foto:** Registro de la masa inicial y colocación de tres porciones en cada recipiente, cubiertas por el medio correspondiente.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
 ![Pesada inicial de los grupos de patata e inmersión separada en cada medio.](../assets/P01/P01_03_pesada_inmersion.jpg)
@@ -204,7 +204,7 @@ Añade entre **5 y 8 evidencias visuales** que cubran la preparación, las fases
 
 - **Archivo previsto:** `../assets/P01/P01_05_comparacion_resultados.jpg`
 - **Texto alternativo:** Comparación final de las porciones y de las masas iniciales y finales en ambos medios.
-- **Pie de foto:** Comparación de los grupos tras la inmersión y de sus masas iniciales y finales; anota el cambio observado sin extrapolarlo fuera del modelo vegetal.
+- **Pie de foto:** Comparación tras la inmersión y de sus masas iniciales y finales; aunque no hubo cambios.
 - **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
 
 ![Comparación final de las porciones y de las masas iniciales y finales en ambos medios.](../assets/P01/P01_05_comparacion_resultados.jpg)
