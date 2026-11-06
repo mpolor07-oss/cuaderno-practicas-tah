@@ -152,7 +152,7 @@ Observaremos las separación de los componentes de la sangre. Este se encontrar�
 
 | Observación, variable o cálculo | Dato/evidencia | Unidad o criterio | Modalidad/origen | Comentario |
 |---|---|---|---|---|
-| Código anónimo de muestra | [Completa] | [Sin datos del donante] | [Real autorizada] | [Completa] |
+| Código anónimo de muestra | E001026048673 | [Sin datos del donante] | Muestra del Banco de Sangre| Se mantiene la confidencialidad.|
 | Tubo, centrífuga, rotor y adaptador | [Completa] | [Marca/modelo] | [Real / alternativa] | [Completa] |
 | RCF, tiempo, temperatura y freno | [Completa] | [× g / min / °C / ajuste] | [PNT local o protocolo OMS] | [Completa] |
 | Aspecto antes y después del giro | [Completa] | [Descripción visual] | [Real / imagen / simulación] | [Completa] |
