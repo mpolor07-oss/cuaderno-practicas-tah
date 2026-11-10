@@ -291,4 +291,31 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
    [Respuesta del alumnado]
 
-**2. Interpretación:** Teniendo en cuenta que la eosina (Panóptico n.º 2) tiñe de rosá
+**2. Interpretación:** Teniendo en cuenta que la eosina (Panóptico n.º 2) tiñe de rosáceo rosáceo las estructuras básicas y el Panóptico n.º 3 tiñe de azulado las estructuras ácidas, ¿qué orgánulos o tipos celulares concretos presentes en la sangre se deberían ver con cada color?
+
+   [Respuesta del alumnado]
+
+**3. Conclusiones:** Imagina que concluyes que el resultado anómalo se debió a que la sangre era antigua. ¿Qué pruebas o evidencias visuales de tu observación microscópica te permitieron descartar que el error estuviera en una mala ejecución de la extensión sanguínea inicial?
+
+   [Respuesta del alumnado]
+
+**4. Aprendizaje y transferencia:** ¿Qué paso específico del proceso manual (la realización del frotis inicial, tinción, observación) crees que debes seguir perfeccionando para asegurar el éxito en futuras extensiones sanguíneas?
+
+   [Respuesta del alumnado]
+
+## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
+
+| Campo | Registro del alumnado |
+|---|---|
+| Identificador de práctica | `P04` |
+| Fecha | [dd/mm/aaaa] |
+| UD / RA / CE | `UD1 / RA01 / CE01.c, CE01.d, CE01.f` |
+| Agrupamiento | [Individual / pareja; especifica] |
+| Modalidad y origen de evidencia | [Completa] |
+| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
+| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
+| Resultado | [Resume o enlaza al apartado 9.1] |
+| Interpretación | [Resume o enlaza al apartado 12] |
+| Incidencias y acciones | [Resume o enlaza al apartado 11] |
+| Ruta de residuos | [Completa o «No aplica»] |
+|Estado de entrega| 
