@@ -264,7 +264,10 @@ Incluye entre **5 y 8 evidencias visuales** según la modalidad autorizada. Indi
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
-Interpreta la calidad y las estructuras visibles en la extensión teñida. Relaciona las observaciones con el producto, el control disponible y el origen/anticoagulante anotados 
+Interpreta la calidad y las estructuras visibles en la extensión teñida. Relaciona las observaciones con el producto, el control disponible y el origen/anticoagulante anotados en el apartado 7; considera la posible interferencia de la heparina. Separa observación e inferencia y no formules diagnósticos.
+
+[Escribe aquí tu interpretación técnica.]
+
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 ¿La tinción permitió valorar la calidad técnica y las estructuras visibles en la extensión? Justifica la conclusión con el resultado y compáralo con el resultado de la práctica anterior (P04).
@@ -306,5 +309,5 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 | Resultado | [Resume o enlaza al apartado 9.1] |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] |
-|Estado de entrega| 
+| Ruta de residuos | [Completa o «No aplica»] 
+|Estado de entrega|
