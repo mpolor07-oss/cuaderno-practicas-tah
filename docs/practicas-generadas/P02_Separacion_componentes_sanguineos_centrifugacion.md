@@ -153,7 +153,7 @@ Observaremos las separación de los componentes de la sangre. Este se encontrar�
 | Observación, variable o cálculo | Dato/evidencia | Unidad o criterio | Modalidad/origen | Comentario |
 |---|---|---|---|---|
 | Código anónimo de muestra | E001026048673 | [Sin datos del donante] | Muestra del Banco de Sangre| Se mantiene la confidencialidad.|
-| Tubo, centrífuga, rotor y adaptador | [Completa] | [Marca/modelo] | [Real / alternativa] | [Completa] |
+| Tubo, centrífuga, rotor y adaptador | Tubo de sangre total con EDTA; centrífuga Nahita, modelo 2645;adaptador compatible con el tamaño del tubo | [Marca/modelo] | [Real / alternativa] | [Completa] |
 | RCF, tiempo, temperatura y freno | [Completa] | [× g / min / °C / ajuste] | [PNT local o protocolo OMS] | [Completa] |
 | Aspecto antes y después del giro | [Completa] | [Descripción visual] | [Real / imagen / simulación] | [Completa] |
 | Fases reconocidas y transferencia de plasma | [Completa] | [Posición / volumen si se mide] | [Real / demostración / documental] | [Completa] |
