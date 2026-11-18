@@ -124,7 +124,7 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 |---|---|
 | Material desechable con sangre| Biológicos o infecciosos |
 | [Portaobjetos roto contaminado, si lo hubiera] | No aplica |
-| [Residuos no contaminados que el centro permita] | [Urbanos o asimilables a los urbanos] |
+| [Residuos no contaminados que el centro permita] | Urbanos o asimilables a los urbanos y biológicos e infecciosos.|
 
 Las soluciones de tinción y el papel con restos de reactivo pueden ser residuos químicos peligrosos: no se incluyen en los tres tipos de la tabla y se gestionan por la ruta específica que determinen las FDS y el centro. Escribe «No aplica» en las filas que no correspondan.
 
@@ -136,9 +136,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [No aplica, salvo cálculo expresamente solicitado por el docente] |
-| Configuración de equipos (si procede) | [Identifica microscopio y objetivo empleados; anota solo la configuración realmente usada y el uso de aceite si procede] |
-| Características del producto o resultado final | [Describe zona de lectura, contraste, fondo, precipitados, artefactos y conservación celular; indica código P03, origen/anticoagulante, modalidad, control disponible e incidencias. No interpretes como diagnóstico.] |
+| Cálculos (si procede) | No aplica |
+| Configuración de equipos (si procede) | Enfocar el microscopio , empezaremos siempre por el 4x y continuaremos con el 10x y 40x.|
+| Características del producto o resultado final | Se obtuvo una extensión sanguínea teñida mediante la técnica panóptica rápida. En la observación microscópica se esperaba distinguir los eritrocitos, los leucocitos y las plaquetas mediante sus características morfológicas y diferencias de coloración. Los eritrocitos presentan tonalidades rosadas, los núcleos de los leucocitos tonos violetas o púrpuras y el citoplasma distintas tonalidades según el tipo celular. La conservación celular y la calidad de la tinción dependen de la preparación y de los tiempos de tinción y lavado. |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
