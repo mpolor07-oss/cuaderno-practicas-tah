@@ -152,14 +152,13 @@ Observaremos las separación de los componentes de la sangre. Este se encontrar�
 
 | Observación, variable o cálculo | Dato/evidencia | Unidad o criterio | Modalidad/origen | Comentario |
 |---|---|---|---|---|
-| Código anónimo de muestra | E001026048673 | [Sin datos del donante] | Muestra del Banco de Sangre| Se mantiene la confidencialidad.|
-| Tubo, centrífuga, rotor y adaptador | Tubo de sangre total con EDTA; centrífuga Nahita, modelo 2645;adaptador compatible con el tamaño del tubo | [Marca/modelo] | [Real / alternativa] | [Completa] |
-| RCF, tiempo, temperatura y freno | [Completa] | [× g / min / °C / ajuste] | [PNT local o protocolo OMS] | [Completa] |
-| Aspecto antes y después del giro | [Completa] | [Descripción visual] | [Real / imagen / simulación] | [Completa] |
-| Fases reconocidas y transferencia de plasma | [Completa] | [Posición / volumen si se mide] | [Real / demostración / documental] | [Completa] |
+| Código anónimo de muestra | E001026048673 | Sin datos del donante | Muestra del Banco de Sangre| Se mantiene la confidencialidad.|
+| Tubo, centrífuga, rotor y adaptador | Tubo de sangre total con EDTA; centrífuga Nahita, modelo 2645;adaptador compatible con el tamaño del tubo | Nahita | Real | No se dispone de la referencia exacta del tubo |
+| RCF, tiempo, temperatura y freno | 2.000 RPM duarnte 15 minutos, a temperatura ambiente, con freno aplicado al finalizar el ciclo | [× g / min / °C / ajuste] | Protocolo OMS | Se registraron las rpm |
+| Aspecto antes y después del giro | Antes de centrifugar la muestra era sangre total con EDTA.Después, observamos una separación visible de los componentes sanguíneos | Parte superior:plasma de color abatido anaranjado; zona intermedia:una capa estrecha entre el plasma y los eritrocitos;parte inferior:eritrocitos, que forman una capa de color rojo muy oscuro | Real  | La centrifugación permitió distinguir las disputas fases de la muestra |
+| Fases reconocidas y transferencia de plasma |Respondido anteriormente | Posición de las fases. | Real | La capa leucoplaquetaria parece estar presenta la imágen 4, aunque es muy estrecha |
 
 ### 9.3 Resultado principal
-
 Resume el resultado y especifica qué procede de observación real, demostración, imagen, dato simulado o análisis documental. Incluye un esquema rotulado de las fases observadas e indica si la capa leucoplaquetaria se distinguió claramente.
 
 Tras la centrifugación de la muestra de sangre con EDTA se observó la separación en tres fases diferenciadas según su densidad:
