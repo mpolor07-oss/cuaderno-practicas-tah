@@ -269,19 +269,28 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| Aparición de precipitados o restos de colorante. | Reactivos contaminados o lavado/secado inadecuado. | Comprobar el estado de los reactivos y evitar contaminaciones. | [Sí, puede dificultar la identificación de las células |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Reconocer la secuencia funcional de fijación/tinción y evaluar una preparación por contraste, precipitados, artefactos y zona de lectura. Interpreta los hallazgos usando los controles y evidencias. Separa observación, cálculo, hipótesis e información no disponible; no excedas el alcance didáctico ni formules un diagnóstico individual.
 
-[Escribe aquí tu interpretación técnica.]
+La técnica de tinción Panóptico rápido permite diferenciar los componentes celulares de la sangre mediante una secuencia de fijación y tinción.
+En primer lugar, el primer reactivo realiza la fijación de las células al portaobjetos, conservando su morfología. Posteriormente, el Panóptico n.º 2, basado en eosina, proporciona tonalidades rosadas o rojizas a determinadas estructuras celulares. Finalmente, el Panóptico n.º 3 aporta tonalidades azuladas o violáceas, permitiendo diferenciar otras estructuras.
+Observación: En una preparación correctamente teñida se espera observar una distribución adecuada de las células sanguíneas, con eritrocitos de tonalidad rosada y leucocitos con núcleos azulados o violáceos. Las plaquetas pueden observarse como pequeños fragmentos celulares de coloración violácea.
+Cálculo: No se realizan cálculos cuantitativos, ya que la actividad se centra en la valoración cualitativa de la tinción.
+Hipótesis: Si aparecen células poco definidas, precipitados o coloraciones excesivamente intensas, podrían deberse a errores en los tiempos de inmersión, contaminación de los reactivos o una preparación inicial inadecuada.
+Información no disponible: Sin disponer de imágenes microscópicas y controles documentados no es posible confirmar el estado real de la preparación ni determinar con seguridad el origen de posibles alteraciones.
+En conclusión, la calidad de la tinción depende de la correcta fijación, los tiempos de exposición a los colorantes y la calidad del frotis inicial.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 ¿En qué medida el procedimiento aplicado a tu frotis de P03 permitió alcanzar el objetivo de obtener una tinción valorable? Justifica tu valoración a partir del resultado observado y señala la limitación que más condicionó la conclusión.
 
-[Escribe aquí tu conclusión.]
+El procedimiento aplicado al frotis de P03 permitió alcanzar el objetivo de obtener una preparación sanguínea teñida y potencialmente valorable mediante microscopía óptica.
+La técnica Panóptico rápido facilita la diferenciación de los elementos formes de la sangre gracias al contraste entre las tonalidades rosadas de los eritrocitos y las azuladas o violáceas de los núcleos leucocitarios.
+Sin embargo, la calidad del resultado depende de factores como la correcta extensión de la sangre, los tiempos de inmersión y el estado de los reactivos.
+La principal limitación que puede condicionar la conclusión es la calidad del frotis inicial, ya que una extensión demasiado gruesa, irregular o con acumulaciones celulares dificulta la observación y puede alterar la interpretación de la tinción.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
@@ -289,33 +298,38 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** Considerando que la técnica exige sumergir el portaobjetos 5 veces durante 1 segundo en cada uno de los tres reactivos, ¿qué consecuencias visuales tendría prolongar o reducir significativamente estos tiempos de inmersión?
 
-   [Respuesta del alumnado]
+   Si se prolongan demasiado los tiempos de inmersión, la tinción puede resultar excesiva, provocando colores demasiado intensos, pérdida de contraste y dificultad para diferenciar las estructuras celulares. Por el contrario, si los tiempos son demasiado cortos, la tinción puede ser insuficiente y las células presentar colores débiles o poco definidos. Por ello, es importante respetar las cinco inmersiones de un segundo en cada reactivo.
 
 **2. Interpretación:** Teniendo en cuenta que la eosina (Panóptico n.º 2) tiñe de rosáceo rosáceo las estructuras básicas y el Panóptico n.º 3 tiñe de azulado las estructuras ácidas, ¿qué orgánulos o tipos celulares concretos presentes en la sangre se deberían ver con cada color?
 
-   [Respuesta del alumnado]
+   La eosina del Panóptico n.º 2 proporciona tonalidades rosadas o rojizas a estructuras celulares básicas, especialmente al citoplasma de los eritrocitos y a componentes citoplasmáticos de otras células.
+El Panóptico n.º 3 tiñe de azul o violeta las estructuras ácidas, especialmente los núcleos de los leucocitos, debido a su contenido de ácidos nucleicos (ADN y ARN). También puede teñir componentes citoplasmáticos de determinados leucocitos, como los gránulos.
+Por tanto, los eritrocitos suelen observarse rosados, mientras que los núcleos de los leucocitos presentan tonalidades azuladas o violetas.
+3. Conclusiones
 
 **3. Conclusiones:** Imagina que concluyes que el resultado anómalo se debió a que la sangre era antigua. ¿Qué pruebas o evidencias visuales de tu observación microscópica te permitieron descartar que el error estuviera en una mala ejecución de la extensión sanguínea inicial?
 
-   [Respuesta del alumnado]
+   Para descartar que el resultado anómalo se debiera a una mala extensión sanguínea inicial, sería necesario comprobar que el frotis presenta una distribución homogénea, una zona de lectura adecuada, una transición progresiva de grosor y ausencia de acumulaciones, estrías o huecos.
+Si estas características se observan correctamente, sería menos probable que el problema estuviera relacionado con la extensión inicial. No obstante, no se puede asegurar que la sangre fuera antigua sin evidencias adicionales, como la fecha de extracción y las condiciones de conservación. También habría que revisar los tiempos de tinción y el estado de los reactivos.
 
 **4. Aprendizaje y transferencia:** ¿Qué paso específico del proceso manual (la realización del frotis inicial, tinción, observación) crees que debes seguir perfeccionando para asegurar el éxito en futuras extensiones sanguíneas?
 
-   [Respuesta del alumnado]
+Considero que debo seguir perfeccionando principalmente la realización del frotis inicial, controlando el ángulo del portaobjetos extensor, la velocidad y la presión del movimiento.
+También debo mejorar la precisión durante la tinción, respetando los tiempos establecidos y evitando contaminaciones entre reactivos. De esta manera podré obtener preparaciones más homogéneas y con mejor contraste para facilitar la observación microscópica.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P04` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 20/10/2026|
 | UD / RA / CE | `UD1 / RA01 / CE01.c, CE01.d, CE01.f` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen de evidencia | [Completa] |
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
-| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
-| Resultado | [Resume o enlaza al apartado 9.1] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] |
-|Estado de entrega| 
+| Agrupamiento | Individual |
+| Modalidad y origen de evidencia | Práctica presencial de laboratorio. Observación microscópica del frotis sanguíneo P03. |
+| Materiales, equipo o fuente usados | Portaobjetos, sangre, portaobjetos extensor, reactivos Panóptico rápido, microscopio óptico y material de laboratorio. |
+| Controles | Comprobación de los tiempos de inmersión, secuencia de reactivos y valoración visual de la calidad de la tinción. |
+| Resultado | Resumido en el apartado 9|
+| Interpretación | Resumido en el apartado 12 |
+| Incidencias y acciones | [Resumido en el apartado 11 |
+| Ruta de residuos | Portaobjetos y material contaminado depositados en los contenedores específicos establecidos para residuos biológicos y material punzante, según el protocolo del laboratorio. Los reactivos se eliminan según su ficha de seguridad y el procedimiento de gestión de residuos químicos. |
+|Estado de entrega| Entregada|
