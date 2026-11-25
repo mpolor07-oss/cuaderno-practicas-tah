@@ -148,8 +148,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_01_materiales.jpg`
 - **Texto alternativo:** Materiales y equipos preparados para la tinción panóptico rápido.
-- **Pie de foto:** [Identifica el kit, los recipientes, el microscopio y el origen de la imagen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Pie de foto:** Kit de tinción Panóptico rápido compuesto por tres soluciones colorantes, recipientes de inmersión, portaobjetos, material auxiliar y microscopio óptico para la observación de las preparaciones sanguíneas.
+- **Imagen del alumnado:** No aplica. Se utiliza como referencia visual del material y equipo necesario para realizar la práctica.
 
 ![Materiales y equipos preparados para la tinción panóptico rápido.](../assets/P04/P04_01_materiales.jpg)
 
@@ -159,8 +159,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_02_extension_previa.jpg`
 - **Texto alternativo:** Extensión sanguínea seca preparada en P03 antes de aplicar la tinción.
-- **Pie de foto:** [Indica el código no identificativo del frotis, su origen y si la imagen es propia o docente.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Pie de foto:** Frotis sanguíneo P03, identificado mediante un código no personal, preparado previamente y dejado secar al aire antes de comenzar el procedimiento de tinción.
+- **Imagen del alumnado:** No aplica. Se emplea una imagen de referencia docente para mostrar el aspecto de una extensión sanguínea antes de la tinción.
 
 ![Extensión sanguínea seca preparada en P03 antes de aplicar la tinción.](../assets/P04/P04_02_extension_previa.jpg)
 
@@ -170,8 +170,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_03_inmersion_colorante.jpg`
 - **Texto alternativo:** Portaobjetos con el frotis sumergido en una de las soluciones panópticas.
-- **Pie de foto:** [Indica en cuál de las tres soluciones se realiza la inmersión y el origen de la imagen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Pie de foto:** Portaobjetos con la extensión sanguínea sumergida en uno de los tres reactivos del kit Panóptico rápido, siguiendo la secuencia establecida por el fabricante. Se realizan cinco inmersiones de un segundo en cada solución.
+- **Imagen del alumnado:** No aplica. Imagen ilustrativa del procedimiento de inmersión en los reactivos.
 
 ![Portaobjetos con el frotis sumergido en una de las soluciones panópticas.](../assets/P04/P04_03_inmersion_colorante.jpg)
 
@@ -181,8 +181,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_04_extension_tenida.jpg`
 - **Texto alternativo:** Extensión sanguínea tras completar la tinción panóptico rápido y el secado.
-- **Pie de foto:** [Describe el aspecto general y la modalidad/origen de la imagen, sin atribuir hallazgos no observados.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Pie de foto:** Preparación sanguínea después de completar la secuencia de fijación y tinción con Panóptico rápido y dejarla secar. La preparación final permite valorar visualmente la distribución del frotis y la calidad general de la tinción.
+- **Imagen del alumnado:** No aplica. Imagen de referencia docente que representa el aspecto esperado de una extensión sanguínea teñida.
 
 ![Extensión sanguínea tras completar la tinción panóptico rápido y el secado.](../assets/P04/P04_04_extension_tenida.jpg)
 
@@ -192,8 +192,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_05_eritrocito.jpg`
 - **Texto alternativo:** Eritrocito observado en una extensión sanguínea teñida con panóptico rápido.
-- **Pie de foto:** [Indica si la microfotografía procede de la preparación propia o de material docente autorizado; añade aumento o escala solo si se conocen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Pie de foto:** Eritrocito o glóbulo rojo observado en una extensión sanguínea teñida mediante Panóptico rápido. Presenta una tonalidad rosada y una morfología característica de disco bicóncavo, sin núcleo.
+- **Imagen del alumnado:** No aplica. Fotografía de referencia docente. No se dispone de datos confirmados sobre el aumento o la escala utilizados.
 
 ![Eritrocito observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_05_eritrocito.jpg)
 
@@ -203,8 +203,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_06_neutrofilo.jpg`
 - **Texto alternativo:** Neutrófilo observado en una extensión sanguínea teñida con panóptico rápido.
-- **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Pie de foto:** Neutrófilo identificado por su núcleo segmentado, generalmente formado por tres a cinco lóbulos, y su citoplasma con pequeños gránulos de tonalidad rosada o violácea.
+- **Imagen del alumnado:** No aplica. Microfotografía de referencia docente. Aumento y escala no especificados.
 
 ![Neutrófilo observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_06_neutrofilo.jpg)
 
@@ -214,8 +214,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_07_basofilo.jpg`
 - **Texto alternativo:** Basófilo observado en una extensión sanguínea teñida con panóptico rápido.
-- **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Pie de foto:** Basófilo caracterizado por la presencia de abundantes gránulos citoplasmáticos de color azul oscuro o violáceo, que pueden llegar a ocultar parcialmente el núcleo.
+- **Imagen del alumnado:** No aplica. Microfotografía de referencia docente. Aumento y escala no especificados.
 
 ![Basófilo observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_07_basofilo.jpg)
 
@@ -225,8 +225,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_08_eosinofilo.jpg`
 - **Texto alternativo:** Eosinófilo observado en una extensión sanguínea teñida con panóptico rápido.
-- **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Pie de foto:** Eosinófilo caracterizado por presentar un núcleo generalmente bilobulado y abundantes gránulos citoplasmáticos de tonalidad anaranjada o rojiza, que permiten diferenciarlo de otros leucocitos.
+- **Imagen del alumnado:** No aplica. Microfotografía de referencia docente. Aumento y escala no especificados.
 
 ![Eosinófilo observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_08_eosinofilo.jpg)
 
@@ -236,8 +236,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_09_monocito.jpg`
 - **Texto alternativo:** Monocito observado en una extensión sanguínea teñida con panóptico rápido.
-- **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Pie de foto:** Monocito identificado por su tamaño relativamente grande, su núcleo de forma arriñonada o plegada y su citoplasma abundante de tonalidad azul grisácea.
+- **Imagen del alumnado:** No aplica. Microfotografía de referencia docente. Aumento y escala no especificados.
 
 ![Monocito observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_09_monocito.jpg)
 
@@ -247,8 +247,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_10_linfocito.jpg`
 - **Texto alternativo:** Linfocito observado en una extensión sanguínea teñida con panóptico rápido.
-- **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Pie de foto:** Linfocito caracterizado por presentar un núcleo grande, redondeado y de color azul violáceo, que ocupa gran parte de la célula, con una pequeña cantidad de citoplasma periférico.
+- **Imagen del alumnado:** No aplica. Microfotografía de referencia docente. Aumento y escala no especificados.
 
 ![Linfocito observado en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_10_linfocito.jpg)
 
@@ -258,8 +258,8 @@ Incorpora las evidencias visuales indicadas a continuación, siempre que su capt
 
 - **Archivo previsto:** `../assets/P04/P04_11_plaqueta.jpg`
 - **Texto alternativo:** Plaqueta observada en una extensión sanguínea teñida con panóptico rápido.
-- **Pie de foto:** [Identifica el origen/modalidad; añade aumento o escala solo si se conocen.]
-- **Imagen del alumnado:** [Añade la imagen autorizada o escribe «No aplica» y explica.]
+- **Pie de foto:** Plaqueta o trombocito observada como un pequeño fragmento citoplasmático sin núcleo, de tonalidad violácea y tamaño considerablemente inferior al de los eritrocitos.
+- **Imagen del alumnado:** No aplica. Microfotografía de referencia docente. Aumento y escala no especificados.
 
 ![Plaqueta observada en una extensión sanguínea teñida con panóptico rápido.](../assets/P04/P04_11_plaqueta.jpg)
 
