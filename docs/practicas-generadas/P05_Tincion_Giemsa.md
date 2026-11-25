@@ -296,34 +296,42 @@ Responde individualmente y relaciona cada respuesta con datos, observaciones o i
 
 **1. Procedimiento:** ¿Qué decisión sobre el origen de la sangre, el producto o la tinción crees que influyó más en el resultado? ¿Por qué?
 
-   [Respuesta del alumnado]
+   Considero que la decisión más importante es seleccionar correctamente el origen de la sangre y el anticoagulante utilizado, ya que pueden influir en la conservación de las células y en la calidad de la tinción. También es fundamental utilizar un colorante de Giemsa adecuado y respetar las indicaciones del fabricante respecto a la dilución, el pH y el tiempo de actuación. Un error en cualquiera de estos aspectos puede provocar una tinción demasiado intensa, débil o irregular.
 
 **2. Interpretación:** ¿Cómo logras diferenciar visualmente al microscopio si una estructura celular ha fijado la eosina (colorante ácido) o los colorantes básicos como el azul de metileno y sus derivados? ¿Por qué fijan ese colorante y no otro de los presentes en la solución?
 
-   [Respuesta del alumnado]
+   La diferenciación se realiza observando las tonalidades que adquieren las estructuras celulares. Las estructuras con afinidad por la eosina presentan colores rosados o rojizos, mientras que las estructuras con afinidad por los colorantes básicos adquieren tonalidades azules o violetas.
+Esto se debe a las propiedades químicas de los componentes celulares. Las estructuras ácidas, como los ácidos nucleicos del núcleo, presentan afinidad por los colorantes básicos, mientras que las estructuras con componentes básicos o proteínas con carga positiva presentan afinidad por la eosina, que es un colorante ácido.
+Por este motivo, los núcleos leucocitarios se observan de color violeta y los eritrocitos presentan tonalidades rosadas.
 
 **3. Conclusiones:** Basándote en la afinidad tintorial observada, ¿qué evidencias respaldan que esta técnica sea la de elección para detectar parásitos intra y extracelulares en sangre periférica?
 
-   [Respuesta del alumnado]
+   La tinción de Giemsa es especialmente útil para detectar determinados parásitos sanguíneos porque permite diferenciar las estructuras parasitarias de las células sanguíneas que las rodean.
+Su combinación de colorantes permite resaltar los ácidos nucleicos y otras estructuras del parásito, facilitando su diferenciación respecto al citoplasma del eritrocito y otros elementos celulares.
+Por ejemplo, en el caso de Plasmodium, permite visualizar formas parasitarias dentro de los eritrocitos. También puede utilizarse para identificar otros hemoparásitos en sangre periférica, según la especie y el procedimiento empleado.
+Por ello, es una técnica de gran utilidad en el diagnóstico parasitológico, aunque la identificación debe realizarse mediante procedimientos validados y personal cualificado.
 
 **4. Aprendizaje y transferencia:** ¿Qué medidas de seguridad en el manejo de reactivos como el metanol y el colorante y qué medidas en cuanto a la gestión de residuos se deben tener en cuenta en esta tinción?
 
-   [Respuesta del alumnado]
+   Durante la tinción de Giemsa es necesario utilizar bata, guantes y protección ocular cuando lo indiquen las FDS y el docente. El metanol debe manipularse con precaución porque es tóxico e inflamable, evitando su inhalación y el contacto con la piel y los ojos. También debe mantenerse alejado de fuentes de calor y utilizarse con la ventilación indicada.
+El colorante de Giemsa debe manipularse siguiendo las instrucciones de seguridad del fabricante, evitando derrames y contactos innecesarios.
+En cuanto a los residuos, los materiales contaminados con sangre deben depositarse en los recipientes de residuos biológicos. Los portaobjetos rotos deben eliminarse en contenedores de punzocortantes. Los restos de Giemsa y metanol deben recogerse como residuos químicos según las FDS y las normas del centro.
+Nunca deben verterse los reactivos al desagüe ni mezclarse residuos de distinta naturaleza sin autorización.
 
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P05` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 27/10/2026 |
 | UD / RA / CE | `UD1 / RA01 / CE01.a, CE01.c, CE01.d, CE01.e, CE01.f` |
-| Agrupamiento | [Individual / pareja; especifica] |
-| Modalidad y origen de evidencia | [Completa] |
-| Origen de sangre y anticoagulante | [Banco de Sangre de Extremadura/SES, muestra docente EDTA cedida, o sangre capilar propia de P03; código no identificativo, sin datos personales/clínicos] |
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
-| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
-| Resultado | [Resume o enlaza al apartado 9.1] |
-| Interpretación | [Resume o enlaza al apartado 12] |
-| Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] 
+| Agrupamiento | Individual |
+| Modalidad y origen de evidencia | Demostración y material docente. |
+| Origen de sangre y anticoagulante | Sangre capilar propia de P03; código no identificativo, sin datos personales/clínicos |
+| Materiales, equipo o fuente usados | Portaobjetos, material de tinción, Giemsa, microscopio óptico y documentación técnica docente. |
+| Controles | Verificación de la preparación, identificación del producto, revisión de la calidad de la coloración, contraste, fondo y posibles precipitados. |
+| Resultado | [Resumen en el apartado 9.1 |
+| Interpretación | [Resumido en el apartado 12 |
+| Incidencias y acciones | [Resumido  en el apartado 11] |
+| Ruta de residuos | Residuos biológicos, punzocortantes y químicos separados según las FDS y las normas del centro.|
 |Estado de entrega|
