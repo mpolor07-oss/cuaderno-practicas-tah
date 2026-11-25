@@ -122,14 +122,14 @@ La obtención de sangre y la preparación de la extensión se documentan en [P03
 
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
 
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada sobre el frotis de P03 / demostración / simulada / documental; describe]
-- **Origen de la sangre:** [Muestra EDTA residual cedida para docencia por el Banco de Sangre de Extremadura/SES / sangre capilar propia recogida en P03]
-- **Anticoagulante:** [EDTA / heparina / No consta]
+- **Nombre y apellidos:** Marta Polo Rincón 
+- **Fecha real de realización:** 27/10/2026
+- **Grupo:** 2⁰ LCB
+- **Pareja de trabajo, si procede:** Grupo 4 
+- **Rol o tarea principal:** Técnico de laboratorio 
+- **Modalidad realmente realizada:** Real autorizada sobre el frotis de P03, demostración. 
+- **Origen de la sangre:** sangre capilar propia recogida en P03
+- **Anticoagulante:** No consta
 - **Código no identificativo del frotis P03:** [Completa]
 
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
@@ -140,17 +140,19 @@ Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No a
 
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Anota el instrumental previsto en el apartado 4 que utilizaste realmente] |
-| Equipos | [Anota los equipos previstos en el apartado 4 que utilizaste realmente] |
-| Reactivos/materiales | [Anota los reactivos y materiales previstos en el apartado 4 que utilizaste realmente] |
+| Instrumental | Portaobjetos, puente de tinción, cristalizador, tubo de ensayo y pipetas Pasteur. |
+| Equipos | Microscopio óptico|
+| Reactivos/materiales | Colorante de Giemsa, agua destilada o tampón indicado por el fabricante y metanol, si está autorizado. |
 
 | Residuo previsto | Tipo |
 |---|---|
-| [Material desechable contaminado con sangre] | [Biológicos o infecciosos] |
-| [Portaobjetos roto contaminado, si lo hubiera] | [Punzocortantes] |
-| [Envase no contaminado que el centro permita] | [Urbanos o asimilables a los urbanos] |
+| [Material desechable contaminado con sangre] | Biológicos o infecciosos |
+| [Portaobjetos roto contaminado, si lo hubiera] | Punzocortantes |
+| [Envase no contaminado que el centro permita] | Urbanos o asimilables a los urbanos |
 
 Los restos de Giemsa, metanol y material con reactivo pueden requerir una ruta de residuo químico separada de las tres categorías de la tabla. Comprueba las FDS y las instrucciones del centro; no viertas reactivos al desagüe. Escribe «No aplica» en las filas que no correspondan.
+
+Antes de comenzar se debe comprobar que el material está limpio, que los reactivos están correctamente identificados y que se dispone de los equipos de protección individual necesarios. También se debe verificar que los residuos están separados correctamente.
 
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 
@@ -160,9 +162,9 @@ Registra los datos de tu actividad e indica si proceden de ejecución propia, de
 
 | Aspecto | Registro del alumnado |
 |---|---|
-| Cálculos (si procede) | [Indica qué calculas, los datos de partida con unidades, la fórmula u operación y el resultado con unidades] |
-| Configuración de equipos (si procede) | [Indica el equipo, los parámetros utilizados y sus valores con unidades cuando corresponda] |
-| Características del producto o resultado final | [Describe coloración, contraste, fondo, precipitados, artefactos y conservación celular. Remite al origen, anticoagulante y código no identificativo registrados en el apartado 7; anota control e incidencias. No formules diagnósticos.] |
+| Cálculos (si procede) | No se realizaron cálculos experimentales propios. Como ejemplo de la proporción indicada en el protocolo, 2 mL de diluyente y 0,2 mL de Giemsa representan una proporción 10:1, siempre que el fabricante y el docente la validen. |
+| Configuración de equipos (si procede) | Microscopio óptico. Se emplean los objetivos adecuados para observar la extensión, siguiendo las indicaciones del docente. |
+| Características del producto o resultado final | En una tinción de Giemsa correctamente realizada se espera observar eritrocitos de tonalidad rosada o salmón, núcleos leucocitarios de color violeta y gránulos citoplasmáticos con distintas tonalidades según el tipo celular. Las plaquetas suelen presentar tonalidades violáceas. La calidad depende del contraste, la intensidad de la coloración, la limpieza del fondo y la ausencia de precipitados. |
 
 ## 10. Evidencias visuales [ALUMNADO · RELLENABLE · DURANTE Y DESPUÉS]
 
@@ -260,19 +262,33 @@ Incluye entre **5 y 8 evidencias visuales** según la modalidad autorizada. Indi
 
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias | [Completa] | [Completa] | [Sí / No; explica] |
 
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 
 Interpreta la calidad y las estructuras visibles en la extensión teñida. Relaciona las observaciones con el producto, el control disponible y el origen/anticoagulante anotados en el apartado 7; considera la posible interferencia de la heparina. Separa observación e inferencia y no formules diagnósticos.
 
-[Escribe aquí tu interpretación técnica.]
+La tinción de Giemsa es una técnica de tipo Romanowsky que permite diferenciar las estructuras celulares de la sangre mediante la afinidad de sus componentes por colorantes ácidos y básicos.
+En una preparación correctamente teñida, los eritrocitos presentan una tonalidad rosada debido principalmente a su contenido proteico, mientras que los núcleos de los leucocitos adquieren una coloración violeta o púrpura por su afinidad por los colorantes básicos. Los gránulos citoplasmáticos presentan diferentes tonalidades dependiendo de su composición química.
+Las plaquetas suelen observarse como pequeños fragmentos celulares de tonalidad violácea.
+La calidad técnica de la tinción se valora mediante los siguientes aspectos:
+Contraste: debe permitir diferenciar las distintas estructuras celulares.
+Coloración: debe ser homogénea y permitir distinguir los componentes celulares.
+Fondo: debe estar relativamente limpio, sin exceso de colorante.
+Precipitados: no deben aparecer depósitos que dificulten la observación.
+Conservación celular: las estructuras deben mantener una morfología reconocible.
+La tinción de Giemsa también resulta especialmente útil para la visualización de determinados parásitos sanguíneos, como los del género Plasmodium, ya que permite observar estructuras parasitarias dentro de los eritrocitos.
+No obstante, la interpretación depende de la calidad de la extensión, el anticoagulante empleado y las condiciones de tinción.
+En esta actividad, al tratarse de una demostración o material docente, las características descritas corresponden a los resultados esperados y no permiten establecer conclusiones clínicas.
 
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 
 ¿La tinción permitió valorar la calidad técnica y las estructuras visibles en la extensión? Justifica la conclusión con el resultado y compáralo con el resultado de la práctica anterior (P04).
 
-[Escribe aquí tu conclusión.]
+La tinción de Giemsa es una técnica importante en hematología porque permite diferenciar las distintas estructuras celulares presentes en una extensión sanguínea gracias a la afinidad de sus componentes por los colorantes ácidos y básicos.
+Una tinción adecuada permite observar eritrocitos, leucocitos y plaquetas con mayor contraste y facilita el reconocimiento de sus características morfológicas. Además, es una técnica útil para detectar determinados parásitos sanguíneos.
+En comparación con la práctica P04, ambas técnicas permiten mejorar la visualización de los componentes celulares de la sangre, aunque Giemsa proporciona una diferenciación tintorial característica de tipo Romanowsky. La comparación definitiva depende de las preparaciones obtenidas y de las condiciones utilizadas en cada práctica.
+Por tanto, la técnica permite valorar la calidad de una extensión sanguínea y reconocer sus principales estructuras, siempre teniendo en cuenta las limitaciones del procedimiento y sin realizar diagnósticos a partir de una observación docente.
 
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 
