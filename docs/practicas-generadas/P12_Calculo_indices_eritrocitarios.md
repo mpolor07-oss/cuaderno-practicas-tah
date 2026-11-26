@@ -78,25 +78,25 @@ La actividad es exclusivamente documental. Se fija RBC en 10¹²/L, Hb en g/L, H
 Fecha de consulta de las referencias enlazadas: **24/11/2026**.
 # Tu cuaderno de prácticas
 ## 7. Datos de realización [ALUMNADO · RELLENABLE · DURANTE]
-- **Nombre y apellidos:** [Escribe tu nombre y apellidos]
-- **Fecha real de realización:** [dd/mm/aaaa]
-- **Grupo:** [Indica tu grupo]
-- **Pareja de trabajo, si procede:** [Indica el nombre o «Trabajo individual»]
-- **Rol o tarea principal:** [Describe tu participación]
-- **Modalidad realmente realizada:** [Real autorizada / demostración / simulada / documental; describe]
-- **Caso elegido:** [A / B / C / D; solo uno]
+- **Nombre y apellidos:** Marta Polo Rincón 
+- **Fecha real de realización:** 26/11/2026
+- **Grupo:** 2⁰ LCB
+- **Pareja de trabajo, si procede:** Trabajo invidual 
+- **Rol o tarea principal:** Técnico de laboratorio 
+- **Modalidad realmente realizada:** [Real autorizada, demostración
+- **Caso elegido:** D
 - **Código o descripción del material/dataset:** [Caso ficticio P12; no incluyas datos personales o clínicos]
 ## 8. Preparación y análisis inicial [ALUMNADO · RELLENABLE · DURANTE]
 ### 8.1 Verificación previa
 Enumera los recursos que vas a utilizar y los residuos previstos. Escribe «No aplica» cuando corresponda. Para cada residuo, selecciona uno de los tres tipos indicados; confirma su gestión según las instrucciones del centro.
 | Elemento | Listado del alumnado |
 |---|---|
-| Instrumental | [Calculadora básica, si se utiliza; de lo contrario, «No aplica»] |
+| Instrumental | Calculadora básica, si se utiliza |
 | Equipos | No aplica; actividad documental sin analizador ni muestra. |
-| Reactivos/materiales | [Tabla del caso elegido, material de escritura y hoja auxiliar, si se utiliza] |
+| Reactivos/materiales | [Tabla del caso D |
 | Residuo previsto | Tipo |
 |---|---|
-| Papel usado, si se desecha | [Urbanos o asimilables a los urbanos / No aplica si se conserva] |
+| Papel usado, si se desecha | No aplica |
 ## 9. Observaciones y resultados [ALUMNADO · RELLENABLE · DURANTE]
 ### 9.1 Registro de observaciones y cálculos
 Completa **una sola** de las cuatro tablas. Los valores facilitados son ficticios y no se modifican. En las demás celdas vacías, escribe el nombre, la definición y la fórmula con sus unidades; en parámetros de entrada indica «dato facilitado/no se calcula». Calcula el valor solo cuando no esté proporcionado. Redondea los resultados a una cifra decimal.
@@ -141,48 +141,80 @@ Completa **una sola** de las cuatro tablas. Los valores facilitados son ficticio
 ### Caso D
 | Abreviatura del parámetro | Nombre del parámetro | Definición | Fórmula de cálculo | Valor |
 |---|---|---|---|---|
-| RBC |  |  |  | 6,30 × 10¹²/L |
-| Hb |  |  |  | 185 g/L |
-| Hct |  |  |  | 56 % |
-| VCM |  |  |  |  |
-| HCM |  |  |  |  |
-| CHCM |  |  |  |  |
-| DE_VCM | Desviación estándar de la distribución de volúmenes eritrocitarios |  |  | 12,2 fL |
-| RDW-CV |  |  |  |  |
+| RBC | Recuento total de eritrocitos | Mide la cantidad de eritrocitos que hay por volumen de sangre| HCT x 10/ VCM | 6,30 × 10¹²/L |
+| Hb | Hemoglobina | Proteína de los eritrocitos encargada de transportar oxígeno. | Concentración de hemoglobina en sangre. | 185 g/L |
+| Hct | Hematocrito | Porcentaje del volumen sanguíneo ocupado por los eritrocitos. |  (Volumen de eritrocitos / volumen total de sangre) × 100. | 56 % |
+| VCM | Volumen medio de cada eritrocito. | Volumen medio de cada eritrocito. | HCTx10/ RBC | 56x10/ 6'30= 88,9 fL |
+| HCM | Hemoglobina corpuscular media | Cantidad media de hemoglobina que contiene cada eritrocito. | Hb/RBC | 185/6'30= 29,4 pg |
+| CHCM | Concentración de hemoglobina corpuscular media | Concentración media de hemoglobina dentro de los eritrocitos. | Hbx100/Hct | 185x100/56=330,4g/L  |
+| DE_VCM | Desviación estándar de la distribución de volúmenes eritrocitarios |  Mide la dispersión de los volúmenes de los eritrocitos respecto a su media.|Dato obtenido del análisis de la distribución de volúmenes eritrocitarios.  | 12,2 fL |
+| RDW-CV | Amplitud de distribución eritrocitaria | Mide la variabilidad porcentual del tamaño de los eritrocitos. | DE_VCM/VCMx100 | 12,2/88,9x100= 13,7%  |
 ## 10. Evidencias visuales [PROFESOR · FIJO]
 La actividad es documental y no requiere fotografías de muestras, equipos ni procedimientos. La tabla del caso elegida y completada en el apartado 9.1 es la evidencia visual y numérica del trabajo; no añadas imágenes que repitan esos datos ni representaciones de histogramas que no se hayan facilitado.
 ## 11. Incidencias, errores y medidas correctoras [ALUMNADO · RELLENABLE · DURANTE]
 | Incidencia, error o duda | Posible causa | Medida aplicada o propuesta | ¿Afectó al resultado? |
 |---|---|---|---|
-| [Completa o escribe «No se detectaron incidencias»] | [Completa] | [Completa] | [Sí / No; explica] |
+| No se detectaron incidencias | [Completa] | [Completa] | [Sí / No; explica] |
 ## 12. Interpretación técnica [ALUMNADO · RELLENABLE · DESPUÉS]
 Clasifica el caso elegido como microcítico, normocítico o macrocítico según el VCM; valora la concentración de Hb con la CHCM y la variación del tamaño con RDW-CV. Indica si Hb/Hct/RBC muestran anemia o eritrocitosis según los intervalos adultos facilitados por el docente o consultados en fuentes médicas rigurosas. Separa datos, cálculos e interpretación; no formules un diagnóstico.
-[Escribe aquí tu interpretación técnica.]
+El caso D presenta los siguientes resultados:
+VCM: 88,9 fL. Se encuentra dentro del intervalo de 80-100 fL, por lo que el patrón es normocítico.
+HCM: 29,4 pg. Indica una cantidad de hemoglobina por eritrocito compatible con valores habituales en adultos.
+CHCM: 330,4 g/L. Es superior a 300 g/L, por lo que no presenta hipocromía según el criterio de esta práctica.
+RDW-CV: 13,7 %. Se encuentra dentro del intervalo didáctico de 11,5-15,7 %, indicando una variación del tamaño eritrocitario dentro de ese intervalo.
+Por otro lado, el recuento de eritrocitos es de 6,30 × 10¹²/L, la hemoglobina de 185 g/L y el hematocrito del 56 %. Los tres valores están elevados respecto a los intervalos habituales de referencia para muchos adultos.
+Estos resultados muestran un patrón compatible con eritrocitosis, es decir, un aumento de los eritrocitos o de la proporción de volumen sanguíneo que ocupan.
+Entre las posibles causas se encuentran:
+Eritrocitosis secundaria por falta de oxígeno, por ejemplo, en enfermedades respiratorias.
+Exposición prolongada a grandes altitudes.
+Tabaquismo.
+Producción excesiva de eritropoyetina.
+Policitemia vera, una enfermedad de la médula ósea.
+Eritrocitosis relativa por disminución del volumen plasmático, como puede ocurrir en la deshidratación.
+Estos resultados no permiten establecer una causa concreta ni realizar un diagnóstico.
+
 ## 13. Conclusión [ALUMNADO · RELLENABLE · DESPUÉS]
 ¿Has alcanzado el objetivo de calcular e interpretar el hemograma de serie roja del caso elegido? Justifica tu valoración a partir del patrón identificado, menciona patologías o causas que pueden cursar con él y explica por qué el hemograma aislado no permite establecer un diagnóstico.
-[Escribe aquí tu conclusión.]
+Con esta práctica hemos conseguido calcular los principales índices eritrocitarios del caso D y realizar una interpretación técnica de los resultados obtenidos.
+Los cálculos muestran un VCM de 88,9 fL, por lo que los eritrocitos presentan un tamaño medio normocítico. La CHCM es de 330,4 g/L, lo que indica que no existe hipocromía según el criterio establecido. Además, el RDW-CV es del 13,7 %, dentro del intervalo de referencia didáctico, por lo que no se observa un aumento significativo de la variabilidad del tamaño de los eritrocitos.
+Sin embargo, los valores de RBC, hemoglobina y hematocrito están elevados, lo que indica un patrón compatible con eritrocitosis.
+Entre las posibles causas encontramos la hipoxia por enfermedades respiratorias, el tabaquismo, la exposición a grandes altitudes, la deshidratación y la policitemia vera.
+No podemos establecer un diagnóstico únicamente con estos datos, porque sería necesario conocer otros factores como la edad, el sexo, los antecedentes personales y los síntomas, además de realizar pruebas complementarias.
+Por tanto, consideramos que se ha alcanzado el objetivo de la práctica, ya que hemos aprendido a calcular los índices eritrocitarios, identificar el patrón observado y comprender las limitaciones de un hemograma aislado.o
+
 ## 14. Reflexión profesional [ALUMNADO · RELLENABLE · DESPUÉS]
 Responde individualmente a partir del caso que elegiste.
 **1. Cálculo:** ¿Qué comprobación te ayudó a detectar un posible error de unidades o de sustitución?
-   [Respuesta del alumnado]
+   La comprobación que más nos ayudó fue verificar la relación entre RBC, VCM y hematocrito. Al multiplicar el recuento de eritrocitos por el VCM, el resultado debe ser coherente con el hematocrito.
+También revisamos que el VCM se expresara en fL, la HCM en pg, la CHCM en g/L y el RDW-CV en porcentaje.
+   
 **2. Pruebas complementarias:** ¿Qué dato o prueba diagnóstica adicional tendría más valor para distinguir las causas que propusiste y por qué?
-   [Respuesta del alumnado]
+   Una de las pruebas más útiles sería medir la eritropoyetina (EPO) en sangre, porque permite orientar la investigación de la causa de la eritrocitosis.
+Si sus valores están elevados, podría orientar hacia una eritrocitosis secundaria. Si están disminuidos, sería necesario investigar otras causas, como la policitemia vera. También podría realizarse el estudio de la mutación JAK2.
+   
 **3. Extensión de sangre periférica:** ¿En tu caso concreto, sería de utilidad realizar una extensión, tinción y observación al microscopio? ¿Por qué?
-   [Respuesta del alumnado]
+   Sí, sería útil realizar una extensión de sangre periférica y observarla al microscopio para estudiar la morfología de los eritrocitos.
+Esta prueba permitiría observar su tamaño, forma y coloración, además de detectar posibles alteraciones celulares que no pueden identificarse únicamente mediante los índices eritrocitarios.
+También ayudaría a complementar la valoración del patrón de eritrocitosis, aunque no permitiría establecer por sí sola su causa.
+   
 **4. Parámetros:** ¿Qué dos parámetros de los anteriores consideras más importantes en el estudio de las anemias? ¿Por qué?
-   [Respuesta del alumnado]
+Consideramos que los dos parámetros más importantes son:
+VCM: permite clasificar las anemias según el tamaño de los eritrocitos en microcíticas, normocíticas o macrocíticas.
+CHCM: permite valorar la concentración de hemoglobina en los eritrocitos y orientar hacia patrones hipocrómicos o no hipocrómicos.
+Ambos parámetros son importantes porque ayudan a orientar el estudio de las anemias y a decidir qué pruebas complementarias pueden ser necesarias.
+   
 ## 15. Trazabilidad y entrega [ALUMNADO · RELLENABLE · DESPUÉS]
 | Campo | Registro del alumnado |
 |---|---|
 | Identificador de práctica | `P12` |
-| Fecha | [dd/mm/aaaa] |
+| Fecha | 26/11/2026 |
 | UD / RA / CE | `UD4 / RA03 / CE03.a, CE03.b, CE03.d, CE03.f, CE03.g` |
 | Agrupamiento | Individual; una sola tabla de caso. |
-| Modalidad y origen de evidencia | [Completa] |
-| Materiales, equipo o fuente usados | [Completa o «No aplica»] |
-| Controles | [Resume los controles aplicados y sus evidencias, si procede] |
+| Modalidad y origen de evidencia | Documental; datos ficticios del caso D |
+| Materiales, equipo o fuente usados | Calculadora |
+| Controles | Comprobación de fórmulas, unidades, coherencia entre RBC, VCM y Hct y redondeo |
 | Resultado | [Resume o enlaza al apartado 9.1] |
 | Interpretación | [Resume o enlaza al apartado 12] |
 | Incidencias y acciones | [Resume o enlaza al apartado 11] |
-| Ruta de residuos | [Completa o «No aplica»] |
-| Estado de entrega | [Borrador / pendiente de revisión / entregado / corregido] |
+| Ruta de residuos | No aplica |
+| Estado de entrega | entregado|
